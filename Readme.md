@@ -3,7 +3,7 @@
 This folder contains scripts for model construction and flux balance analysis.
 
 Yu Chen & Jiufu Qin
-Last update date:    2020-07-16
+Last update date:    2021-04-07
 Contact: cheyu@chalmers.se
 
 ___
@@ -18,8 +18,6 @@ ___
 
 ## References
 
-Engineering yeast metabolism for the discovery, refactoring, and production of polyamines and polyamine analogues
-Qin J, Krivoruchko A, Ji B, Chen Y, Kristensen M, Keasling D.J., Jensen K.M., Nielsen J
-2020 In Submission.
+Engineering yeast metabolism for the discovery and production of polyamines and polyamine analogues (2021) Nature Catalysis
 
 
